@@ -1,0 +1,25 @@
+body{
+	background-image: url(https://www.shutterstock.com/image-vector/abstract-golden-light-rays-scene-600nw-2271597037.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	flex-wrap: wrap;
+	background-attachment: fixed;
+}
+
+#CMBYN {
+	height: 200px;
+	width: 300px;
+	margin: 10px;
+}
+
+#MG {
+	height: 200px;
+	width: 300px;
+	margin: 10px;
+}
+
+#WC {
+	height: 200px;
+	width: 300px;
+	margin: 10px;
+}
